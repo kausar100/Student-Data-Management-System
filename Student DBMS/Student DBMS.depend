@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1529341172 source:c:\users\md. golam kausar\desktop\new folder\student dbms\main.cpp
+	"class.h"
+	"code.h"
+
+1529340656 source:c:\users\md. golam kausar\desktop\new folder\student dbms\class.cpp
+	"class.h"
+
+1529337198 c:\users\md. golam kausar\desktop\new folder\student dbms\class.h
+	<bits/stdc++.h>
+
+1529341172 source:c:\users\md. golam kausar\desktop\new folder\student dbms\code.cpp
+	"code.h"
+
+1529340402 c:\users\md. golam kausar\desktop\new folder\student dbms\code.h
+	<bits/stdc++.h>
+
+1529340658 source:e:\project cse\student data management system\student dbms\class.cpp
+	"class.h"
+
+1529337200 e:\project cse\student data management system\student dbms\class.h
+	<bits/stdc++.h>
+
+1529341174 source:e:\project cse\student data management system\student dbms\code.cpp
+	"code.h"
+
+1529340404 e:\project cse\student data management system\student dbms\code.h
+	<bits/stdc++.h>
+
+1529341250 source:e:\project cse\student data management system\student dbms\main.cpp
+	"class.h"
+	"code.h"
+
